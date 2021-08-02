@@ -78,7 +78,7 @@ exports.handler = function(event, context, callback) {
 https://aws.amazon.com/blogs/compute/introducing-aws-lambda-destinations/
 
 
-Also see [Api-Gateway-Dynamodb-Lambda](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda-demo)
+## Also see [Api-Gateway-Dynamodb-Lambda](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda-demo)
 
 
 ## Todo
