@@ -22,7 +22,7 @@ S3 as the Lambda trigger, SQS as the Lambda destination
 ![enter image description here](https://github.com/vikki-xiaohua/AWS-series-s3-lambda-trigger-destination-demo/blob/main/image/sqs-1.png)
 
 
-###  Add SQS as destination
+###  Add SQS as the destination
 
 ![enter image description here](https://github.com/vikki-xiaohua/AWS-series-s3-lambda-trigger-destination-demo/blob/main/image/sqs-2.png)
 
@@ -69,6 +69,13 @@ exports.handler = function(event, context, callback) {
 3. SQS
 
 ![enter image description here](https://github.com/vikki-xiaohua/AWS-series-s3-lambda-trigger-destination-demo/blob/main/image/test-2.png)
+
+
+![enter image description here](https://github.com/vikki-xiaohua/AWS-series-s3-lambda-trigger-destination-demo/blob/main/image/test-3.png)
+
+### Reference
+
+https://aws.amazon.com/blogs/compute/introducing-aws-lambda-destinations/
 
 
 ## Todo
