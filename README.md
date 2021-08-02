@@ -1,5 +1,5 @@
 
-# s3-lambda-trigger-destination-demo
+# lambda-s3-trigger-sqs-destination-demo
 
 S3 as the Lambda trigger, SQS as the Lambda destination
 
